@@ -29,20 +29,12 @@ Nuestra misión es sencilla: **que cualquier territorio —desde una gran capita
 
 ## Cylstat en cifras
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="160"><h2>+200 M</h2><sub>datos estadísticos<br/>públicos</sub></td>
-<td align="center" width="160"><h2>8.131</h2><sub>municipios españoles<br/>cubiertos</sub></td>
-<td align="center" width="160"><h2>+1.000</h2><sub>indicadores<br/>territoriales</sub></td>
-</tr>
-<tr>
-<td align="center" width="160"><h2>7</h2><sub>observatorios<br/>temáticos</sub></td>
-<td align="center" width="160"><h2>24 / 7</h2><sub>actualización<br/>continua</sub></td>
-<td align="center" width="160"><h2>+25 años</h2><sub>de experiencia<br/>(desde 1997)</sub></td>
-</tr>
-</table>
-</div>
+- **+200 M** — datos estadísticos públicos almacenados
+- **8.131** — municipios españoles cubiertos
+- **+1.000** — indicadores territoriales
+- **7** — observatorios temáticos
+- **24/7** — actualización continua de datos
+- **+25 años** — de experiencia (desde 1997)
 
 ---
 
@@ -89,14 +81,9 @@ Administraciones públicas de toda España, entre ellas los **Ayuntamientos de M
 
 ## Contacto
 
-<div align="center">
-
-Plaza de la Universidad, 8 · 47003 Valladolid (España)
-+34 983 34 09 93 · [cylstat@cylstat.es](mailto:cylstat@cylstat.es)
-[cylstat.es](https://www.cylstat.es) · [portalestadistico.com](https://portalestadistico.com)
-
-<br/>
+- **Dirección:** Plaza de la Universidad, 8 · 47003 Valladolid (España)
+- **Teléfono:** +34 983 34 09 93
+- **Email:** [cylstat@cylstat.es](mailto:cylstat@cylstat.es)
+- **Web:** [cylstat.es](https://www.cylstat.es) · [portalestadistico.com](https://portalestadistico.com)
 
 <sub>© Cylstat S.L · Datos inteligentes para administraciones públicas</sub>
-
-</div>
