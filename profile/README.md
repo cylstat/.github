@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/282853729?v=4" width="120" alt="Cylstat" />
+<img src="https://raw.githubusercontent.com/cylstat/.github/main/profile/logo-cylstat-horizontal.svg" width="320" alt="Cylstat" />
 
 # Cylstat · Datos Inteligentes
 
