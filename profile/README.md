@@ -29,14 +29,14 @@ Nuestra misión es sencilla: **que cualquier territorio —desde una gran capita
 
 ## Cylstat en cifras
 
-| Cifra | Descripción |
-|-------|-------------|
-| **+200 M** | datos estadísticos públicos almacenados |
-| **8.131** | municipios españoles cubiertos |
-| **+1.000** | indicadores territoriales |
-| **7** | observatorios temáticos |
-| **24/7** | actualización continua de datos |
-| **+25 años** | de experiencia (desde 1997) |
+| Descripción | Cifra |
+|-------------|-------|
+| Datos estadísticos públicos almacenados | **+200 M** |
+| Municipios españoles cubiertos | **8.131** |
+| Indicadores territoriales | **+1.000** |
+| Observatorios temáticos | **7** |
+| Actualización continua de datos | **24/7** |
+| Experiencia (desde 1997) | **+25 años** |
 
 ---
 
