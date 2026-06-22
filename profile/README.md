@@ -30,14 +30,18 @@ Nuestra misión es sencilla: **que cualquier territorio —desde una gran capita
 ## Cylstat en cifras
 
 <div align="center">
-
-| | | |
-|:--:|:--:|:--:|
-| **+200 M** | **8.131** | **+1.000** |
-| datos estadísticos públicos | municipios españoles cubiertos | indicadores territoriales |
-| **7** | **24 / 7** | **+25 años** |
-| observatorios temáticos | actualización continua | de experiencia (desde 1997) |
-
+<table>
+<tr>
+<td align="center" width="160"><h2>+200 M</h2><sub>datos estadísticos<br/>públicos</sub></td>
+<td align="center" width="160"><h2>8.131</h2><sub>municipios españoles<br/>cubiertos</sub></td>
+<td align="center" width="160"><h2>+1.000</h2><sub>indicadores<br/>territoriales</sub></td>
+</tr>
+<tr>
+<td align="center" width="160"><h2>7</h2><sub>observatorios<br/>temáticos</sub></td>
+<td align="center" width="160"><h2>24 / 7</h2><sub>actualización<br/>continua</sub></td>
+<td align="center" width="160"><h2>+25 años</h2><sub>de experiencia<br/>(desde 1997)</sub></td>
+</tr>
+</table>
 </div>
 
 ---
