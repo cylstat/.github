@@ -88,4 +88,10 @@ Administraciones públicas de toda España, entre ellas los **Ayuntamientos de M
 - **Email:** [cylstat@cylstat.es](mailto:cylstat@cylstat.es)
 - **Web:** [cylstat.es](https://www.cylstat.es) · [portalestadistico.com](https://portalestadistico.com)
 
+---
+
+<div align="center">
+
 <sub>© Cylstat S.L · Datos inteligentes para administraciones públicas</sub>
+
+</div>
